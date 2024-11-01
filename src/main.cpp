@@ -1,7 +1,3 @@
-// letsarduino.com
-// [Project 11] - 2 Servos Using a Joystick 
-//  (thumbstick) + Arduino
-
 #include <Servo.h>  
 #include <Arduino.h>
 
